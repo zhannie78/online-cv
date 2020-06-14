@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: anniezh78@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    phone: please emali
+    website: modernmasks.ca #do not add http://
     linkedin: alandoe
     github: sharu725
     telegram: # add your nickname without '@' sign
@@ -36,85 +36,62 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Cryptocurrency and Mining
         link:
 
-      - item: Snowboarding
+      - item: Stock Trading and Value Investing
         link:
 
-      - item: Cooking
+      - item: E-Commerce
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      At the intersection of data science and healthcare: addressing public health and bioinformatics goals.
+I am highly adaptable with diverse skills. I strongly believe in life-long learning. 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Analytics
+      university: Georgia Institute of Technology
+      time: 2020 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        MSc Candidate. Taking courses:
+          - CSE 6040 (Computing for Data Analysis)
+          - ISYE 6501 (Introduction to Analytics Modeling)
+          - MGT 6754/8803 (Business Fundamentals for Analytics)
+          - CSE 6242 (Data and Visual Analytics)
+          - MGT 6203 (Data Analytics in Business)
+          - ISYE 6414 (Statistical Modeling and Regression Analysis)
+          - ISYE 6644 (Simulation and Modeling)
+          - ISYE 8803 (High-Dimensional Data Analytics)
+          - MGT 6311 (Digital Marketing)
+          - MGT 8813 (Financial Modeling)
+          - Applied Analytics Practicum
+    - degree: BSc in Medical Sciences
+      university: University of Alberta
+      time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Biology, Psychology, Chemistry, Physics, Organic Chemistry, Physiology, Anatomy, Cell Biology, Microbiology, Immunology, etc.
+          - 4.0 Math/Science GPA
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Digital Media Consultant
+      time: 2020 - Present
+      company: Small Business Owner
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+       Elevating brands via digital media marketing. Social media is now the premier platform for marketing for most businesses. I help startups and e-commerce small businesses (eg. Shopify online stores like ModernMasks.ca) with increasing their brand recognition through social media exposure and by marketing them to the desired demographic via targeted Facebook and Instagram ads. I utilize influencer marketing strategies and search engine optimization to increase sales conversions.
+    - role: Brand Ambassador
+      time: 2018 - Present
+      company: Independent Contractor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Represented numerous companies positively and professionally to improve brand awareness and customer relations while engaging in experiential marketing.
+    - role: Biomedical Researcher
+      time: 2012 - 20148
+      company: University of Alberta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Received AIHS Summer Studentship Grant. Examined the mechanisms underlying the effects of Aß and amylin in a regenerative model of neuronal cells, the N2a cell line, for the study of Alzheimer's disease. I utilized cell culturing techniques and western blot to identify the presence of receptors, conducted time course experiments, and measured changes in signal protein levels. Presented how the findings exemplify the potential of using N2a cells in studying Alzheimer's through my abstract and Research Day poster presentation.
+    - Conducted a double-blind study and retrospectively analyzed the orthodontic records of 52 patients in a randomized clinical trial using manual data recorded of malocclusion severity. Published an abstract and gave oral and poster presentations at the regional research conference.
+    - Worked with a graduate student to explore immunoreceptor mediated phagocytosis, while becoming familiarized with various laboratory techniques (ie. confocal microscopy). Submitted a research paper which received A grade.
+- Recruited OR patients and collected pre- and post- surgery pain data as part of ongoing clinical studies to improve patient care in Anesthesia. I recorded pain based on the Visual Analogue Scale. This information was used to assess the effectiveness of certain techniques of anesthesia over others.
 projects:
     title: Projects
     intro: >
