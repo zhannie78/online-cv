@@ -86,32 +86,53 @@ experiences:
     - Conducted a double-blind study and retrospectively analyzed the orthodontic records of 52 patients in a randomized clinical trial using manual data recorded of malocclusion severity. Published an abstract and gave oral and poster presentations at the regional research conference.
     - Worked with a graduate student to explore immunoreceptor mediated phagocytosis, while becoming familiarized with various laboratory techniques (ie. confocal microscopy). Submitted a research paper which received A grade.
 - Recruited OR patients and collected pre- and post- surgery pain data as part of ongoing clinical studies to improve patient care in Anesthesia. I recorded pain based on the Visual Analogue Scale. This information was used to assess the effectiveness of certain techniques of anesthesia over others.
-projects:
-    title: Projects
+  - role: Global Community Development Intern
+      time: 2013
+      company: AIESEC International and PwC
+      details: |
+        Implemented creative social campaigns to educate and debunk myths about health and blood donation in Egypt as part of a PricewaterhouseCoopers (PwC) initiative “Triple Effect” to triple the amount of access to safe blood. 
+    - role: Mathematics Instructor
+    time: 2012
+      company: Kumon
+      details: |
+        Tutored K-12 students to improve their fundamental skills in mathematics.
+ - role: CAREERS: The Next Generation Health Services Intern
+    time: 2011
+      company: Alberta Health Services
+      details: |
+        Organized patient data to help prepare for a major system upgrade to electronic filing.
+ - role: Marketing Development Coordinator 
+    time: 2010
+      company: Impact Entrepreneurship Group
+      details: |
+        Collaborated with a nation-wide team to market Impact Apprentice, a business and entrepreneurship competition for university students where 32 final contestants compete in four days of real-life business challenges in marketing, sales, negotiation, and innovation.
+
+ projects:
+    title: Licenses & Certifications
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Blockchain Basics
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Coursera"
 
-      - title: DevStudio
+      - title: Data Science Math Skills
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Duke University"
 
-      - title: Tempo
+      - title: Data Science: Visualization
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "HarvardX"
 
-      - title: Atom
+      - title: Databases and SQL for Data Science
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "IBM"
 
-      - title: Delta
+      - title: Global Health
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Yale University"
 
 publications:
     title: Publications
@@ -139,23 +160,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Digital Marketing
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
