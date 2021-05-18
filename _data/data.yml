@@ -4,7 +4,8 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+    projects: True 
 
     # Profile information
     name: Annie Zhang
@@ -61,7 +62,6 @@ education:
       time: 2012 - 2017
       details: |
           - First Class Honors: 4.0 GPA
-          - Ranked First in a class of over 300 students in Calculus, having scored 100% on all exams.
 experiences:
     - role: Digital Marketing and E-Commerce Analyst
       time: 2020 - Present
