@@ -2,142 +2,149 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Annie Zhang
-    tagline: Data Scientist
-    avatar: IMG_5590.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: anniezh78@gmail.com
-    phone: 1 825 431 6088
-    website: bit.ly/digitalmarketingecom
-    linkedin: annie-7481601a5
-    github: zhannie78
-    instagram: worldofthewanderer
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: Mandarin
+      - idiom: French
         level: Professional
 
-      - idiom: French
-        level: Intermediate
+      - idiom: Spanish
+        level: Professional
 
     interests:
-      - item: Cryptocurrency and Mining
+      - item: Climbing
         link:
 
-      - item: Stock Trading and Value Investing
+      - item: Snowboarding
         link:
 
-      - item: E-Commerce
+      - item: Cooking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      At the intersection of data science and healthcare: addressing public health and bioinformatics goals.
-      I am highly adaptable with diverse skills. I strongly believe in life-long learning. 
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: MSc in Analytics
-      university: Georgia Institute of Technology
-      time: 2020 - Present
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-        MSc Candidate. Taking courses:
-          - CSE 6040 (Computing for Data Analysis)
-          - ISYE 6501 (Introduction to Analytics Modeling)
-          - MGT 6754/8803 (Business Fundamentals for Analytics)
-          - CSE 6242 (Data and Visual Analytics)
-          - MGT 6203 (Data Analytics in Business)
-          - ISYE 6414 (Statistical Modeling and Regression Analysis)
-          - ISYE 6644 (Simulation and Modeling)
-          - ISYE 8803 (High-Dimensional Data Analytics)
-          - MGT 6311 (Digital Marketing)
-          - MGT 8813 (Financial Modeling)
-          - Applied Analytics Practicum
-    - degree: BSc in Medical Sciences
-      university: University of Alberta
-      time: 2012 - 2017
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
-        Biology, Psychology, Chemistry, Physics, Organic Chemistry, Physiology, Anatomy, Cell Biology, Microbiology, Immunology, etc.
-          - 4.0 Math/Science GPA
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Digital Media Consultant
-      time: 2020 - Present
-      company: Small Business Owner
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-       Elevating brands via digital media marketing. Social media is now the premier platform for marketing for most businesses. 
-       I help startups and e-commerce small businesses (eg. Shopify online stores like ModernMasks.ca) with increasing their brand recognition through social media exposure and by marketing them to the desired demographic via targeted Facebook and Instagram ads. I utilize influencer marketing strategies and search engine optimization to increase sales conversions.
-    - role: Brand Ambassador
-      time: 2018 - Present
-      company: Independent Contractor
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-        Represented numerous companies positively and professionally to improve brand awareness and customer relations while engaging in experiential marketing.
-    - role: Biomedical Researcher
-      time: 2012 - 2018
-      company: University of Alberta
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-        - Received AIHS Summer Studentship Grant. Examined the mechanisms underlying the effects of Aß and amylin in a regenerative model of neuronal cells, the N2a cell line, for the study of Alzheimer's disease. I utilized cell culturing techniques and western blot to identify the presence of receptors, conducted time course experiments, and measured changes in signal protein levels. Presented how the findings exemplify the potential of using N2a cells in studying Alzheimer's through my abstract and Research Day poster presentation.
-    - Conducted a double-blind study and retrospectively analyzed the orthodontic records of 52 patients in a randomized clinical trial using manual data recorded of malocclusion severity. Published an abstract and gave oral and poster presentations at the regional research conference.
-    - Worked with a graduate student to explore immunoreceptor mediated phagocytosis, while becoming familiarized with various laboratory techniques (ie. confocal microscopy). Submitted a research paper which received A grade.
-- Recruited OR patients and collected pre- and post- surgery pain data as part of ongoing clinical studies to improve patient care in Anesthesia. I recorded pain based on the Visual Analogue Scale. This information was used to assess the effectiveness of certain techniques of anesthesia over others.
-  - role: Global Community Development Intern
-      time: 2013
-      company: AIESEC International and PwC
-      details: |
-        Implemented creative social campaigns to educate and debunk myths about health and blood donation in Egypt as part of a PricewaterhouseCoopers (PwC) initiative “Triple Effect” to triple the amount of access to safe blood. 
-    - role: Mathematics Instructor
-    time: 2012
-      company: Kumon
-      details: |
-        Tutored K-12 students to improve their fundamental skills in mathematics.
- - role: CAREERS: The Next Generation Health Services Intern
-    time: 2011
-      company: Alberta Health Services
-      details: |
-        Organized patient data to help prepare for a major system upgrade to electronic filing.
- - role: Marketing Development Coordinator 
-    time: 2010
-      company: Impact Entrepreneurship Group
-      details: |
-        Collaborated with a nation-wide team to market Impact Apprentice, a business and entrepreneurship competition for university students where 32 final contestants compete in four days of real-life business challenges in marketing, sales, negotiation, and innovation.
-
- projects:
-    title: Licenses & Certifications
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+projects:
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Blockchain Basics
+      - title: Velocity
         link: "#hook"
-        tagline: "Coursera"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Data Science Math Skills
+      - title: DevStudio
         link: "#"
-        tagline: "Duke University"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Data Science: Visualization
+      - title: Tempo
         link: "#"
-        tagline: "HarvardX"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Databases and SQL for Data Science
+      - title: Atom
         link: "#"
-        tagline: "IBM"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Global Health
+      - title: Delta
         link: "#"
-        tagline: "Yale University"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Projects
+    title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -162,20 +169,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
-        level: 80%
+      - name: Python & Django
+        level: 98%
 
-      - name: R
-        level: 80%
+      - name: Javascript & jQuery
+        level: 98%
 
-      - name: SQL
-        level: 80%
+      - name: Angular
+        level: 98%
 
       - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
         level: 85%
 
-      - name: Digital Marketing
-        level: 85%
+      - name: Sketch & Photoshop
+        level: 60%
 
-footer: 
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
