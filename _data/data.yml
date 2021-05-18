@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Annie Zhang
-    tagline: Data Scientist | Digital Marketing Analyst
+    tagline: Data Scientist & Digital Marketing Analyst
     avatar: profile.png.jfif  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -78,39 +78,37 @@ experiences:
       time: 2020 - Present
       company: Small Business Owner
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Elevating online brands via digital marketing. Social media is now the premier marketing platform for many businesses. I help e-commerce small businesses and start-ups, including Shopify online brands, with increasing sales through social media exposure and by marketing to their desired demographic via targeted Facebook or Instagram ads. I also utilize influencer marketing strategies and search engine optimization to increase discovery and sales.
     - role: Brand Ambassador and Promotional Model
       time: 2018 - Present
       company: Independent Contractor
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Represented numerous companies in various industries (eg. luxury automotive, beauty, beverages, etc.), to increase brand awareness and preference through promotional events, trade shows, and marketing initiatives. I have worked with over 20 different experiential marketing agencies.
+    - role: Biomedical Rsearch Student
+      time: 2012 - 2018
+      company: University of Alberta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Received AIHS Summer Studentship Grant. Examined the mechanisms underlying the effects of Aß and amylin in a regenerative model of neuronal cells, the N2a cell line, for the study of Alzheimer's disease. I utilized cell culturing techniques and western blot to identify the presence of receptors, conducted time course experiments, and measured changes in signal protein levels. Presented how the findings exemplify the potential of using N2a cells in studying Alzheimer's through my abstract and Research Day poster presentation.
+          - Conducted a double-blind study and retrospectively analyzed the orthodontic records of 52 patients in a randomized clinical trial using manual data recorded of malocclusion severity. Published an abstract and gave oral and poster presentations at the regional research conference.
+          - Worked with a graduate student to explore immunoreceptor mediated phagocytosis, while becoming familiarized with various laboratory techniques (ie. confocal microscopy). Submitted a research paper which received A grade.
+          - Recruited OR patients and collected pre- and post- surgery pain data as part of ongoing clinical studies to improve patient care in Anesthesia. I recorded pain based on the Visual Analogue Scale. This information was used to assess the effectiveness of certain techniques of anesthesia over others.
+          - Sanofi BioGENEius Merit Award for research project on fatty liver disease.
+          - Selected for The Canadian Gene Cure Foundation GRFAW program
+    - role: Global Community Development Intern
+      time: 2013 - 2013
+      company: AIESEC International
+      details: |
+        Implemented creative social campaigns to educate and debunk myths about health and blood donation in Egypt as part of a PricewaterhouseCoopers (PwC) initiative “Triple Effect” to triple the amount of access to safe blood.
+    - role: CAREERS: The Next Generation Health Services Intern
+      time: 2011 - 2011
+      company: Alberta Health Services
+      details: |
+        Organized patient data to help prepare for a major system upgrade in electronic filing.
+    - role: Marketing Development Intern
+      time: 2010 - 2010
+      company: Impact Entrepreneurship Group
+      details: |
+        Collaborated with a nation-wide team to market Impact Apprentice, a business and entrepreneurship competition for university students where 32 final contestants compete in four days of real-life business challenges in marketing, sales, negotiation, and innovation.
 projects:
     title: Projects
     intro: >
