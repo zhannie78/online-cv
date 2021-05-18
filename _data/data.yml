@@ -51,7 +51,7 @@ career-profile:
     summary: |
       At the intersection of machine learning, business analytics, and AI: addressing diverse goals in future focused technology. Skilled in digital and experiential marketing. I am highly adaptable, resilient, and a self-motivated life-long learner.
 education:
-    - degree: MS in Analytics
+    - degree: Master of Science in Analytics
       university: Georgia Institute of Technology
       time: 2020 - 2022
       details: |
@@ -61,7 +61,7 @@ education:
       time: 2020 - 2021
       details: |
           Courses: Capstone Project, Machine Learning, Linear Regression, Wrangling, Productivity Tools, Inference and Modeling, Probability, Visualization, R Basics
-    - degree: BSc in Medical Science
+    - degree: Bachelor of Science in Medical Science
       university: University of Alberta
       time: 2012 - 2017
       details: |
@@ -78,7 +78,7 @@ experiences:
       company: Independent Contractor
       details: |
         Represented numerous companies in various industries (eg. luxury automotive, beauty, beverages, etc.), to increase brand awareness and preference through promotional events, trade shows, and marketing initiatives. I have worked with over 20 different experiential marketing agencies.
-    - role: Biomedical Rsearch Student
+    - role: Biomedical Research Student
       time: 2012 - 2018
       company: University of Alberta
       details: |
