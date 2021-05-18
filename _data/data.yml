@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Annie Zhang
@@ -56,11 +56,6 @@ education:
       time: 2020 - 2022
       details: |
         Interdisciplinary Master's Degree in statistics, business, machine learning, and data science jointly offered by the #1 Graduate Industrial Systems Engineering program and #1 Public MBA/Business Analytics program in the United States.
-    - degree: Data Science Professional Certificate
-      university: Harvard University edX
-      time: 2020 - 2021
-      details: |
-          Courses: Capstone Project, Machine Learning, Linear Regression, Wrangling, Productivity Tools, Inference and Modeling, Probability, Visualization, R Basics
     - degree: Bachelor of Science in Medical Science
       university: University of Alberta
       time: 2012 - 2017
@@ -104,31 +99,33 @@ experiences:
       details: |
         Collaborated with a nation-wide team to market Impact Apprentice, a business and entrepreneurship competition for university students where 32 final contestants compete in four days of real-life business challenges in marketing, sales, negotiation, and innovation.
 projects:
-    title: Projects
+    title: Certifications
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: DATA SCIENCE PROFESSIONAL CERTIFICATE
+        link: "https://courses.edx.org/certificates/81a337b27f7d4f4ea7a989c9d9a994bd"
+        tagline: "Harvard University edX - Courses: Capstone Project, Machine Learning, Linear Regression, Wrangling, Productivity Tools, Inference and Modeling, Probability, Visualization, R Basics"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: DATA SCIENCE SPECIALIZATION
+        link: "https://coursera.org/share/048d6f0eab93bcedb15066afb9d04120"
+        tagline: "IBM"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: SOCIAL MEDIA MARKETING CERTIFICATION
+        link: "https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/8832a87bf4f54d9d8ccfdb7cdd819dc0-1593560785433.png"
+        tagline: "Hubspot Academy"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: SEARCH ENGINE OPTIMIZATION CERTIFICATE
+        link: "https://static.semrush.com/academy-prod/certificate/6411962/SEMrush-Academy-Certificate-2c4ca706839f9cffa1af643742348a40c5bdda06ad5681d7df773911536f3089.png"
+        tagline: "SEMrush"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: GOOGLE ANALYTICS
+        link: "https://analytics.google.com/analytics/academy/certificate/aw3D9tJcQf2XOHbQ97izRw"
+        tagline: "Google Academy"
+        
+      - title: BLOCKCHAIN BASICS
+        link: "https://www.coursera.org/account/accomplishments/certificate/XBJVMH7RGDMS"
+        tagline: "Coursera"
 
 skills:
     title: Skills &amp; Proficiency
