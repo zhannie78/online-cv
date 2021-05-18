@@ -55,24 +55,18 @@ education:
       university: Georgia Institute of Technology
       time: 2020 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Interdisciplinary Master's Degree in statistics, business, machine learning, and data science jointly offered by the #1 Graduate Industrial Systems Engineering program and #1 Public MBA/Business Analytics program in the United States.
+    - degree: Data Science Professional Certificate
+      university: Harvard University edX
+      time: 2020 - 2021
+      details: |
+          Courses: Capstone Project, Machine Learning, Linear Regression, Wrangling, Productivity Tools, Inference and Modeling, Probability, Visualization, R Basics
     - degree: BSc in Medical Science
       university: University of Alberta
       time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - First Class Honors: 4.0 GPA
+          - Ranked First in a class of over 300 students in Calculus, having scored 100% on all exams.
 experiences:
     - role: Digital Marketing and E-Commerce Analyst
       time: 2020 - Present
@@ -98,7 +92,7 @@ experiences:
       time: 2013 - 2013
       company: AIESEC International
       details: |
-        Implemented creative social campaigns to educate and debunk myths about health and blood donation in Egypt as part of a PricewaterhouseCoopers (PwC) initiative “Triple Effect” to triple the amount of access to safe blood.
+        Implemented creative social campaigns to educate and debunk myths about health and blood donation in Egypt as part of a PricewaterhouseCoopers (PwC) initiative Triple Effect to triple the amount of access to safe blood.
     - role: CAREERS: The Next Generation Health Services Intern
       time: 2011 - 2011
       company: Alberta Health Services
