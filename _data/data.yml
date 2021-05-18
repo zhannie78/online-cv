@@ -103,27 +103,27 @@ projects:
     intro: >
 
     assignments:
-      - title: DATA SCIENCE PROFESSIONAL CERTIFICATE
+      - title: Data Science Professional Certification
         link: "https://courses.edx.org/certificates/81a337b27f7d4f4ea7a989c9d9a994bd"
-        tagline: "Harvard University edX - Courses: Capstone Project, Machine Learning, Linear Regression, Wrangling, Productivity Tools, Inference and Modeling, Probability, Visualization, R Basics"
+        tagline: "(Harvard University edX) Courses: Capstone Project, Machine Learning, Linear Regression, Wrangling, Productivity Tools, Inference and Modeling, Probability, Visualization, R Basics"
 
-      - title: DATA SCIENCE SPECIALIZATION
+      - title: Data Science Specialization
         link: "https://coursera.org/share/048d6f0eab93bcedb15066afb9d04120"
         tagline: "IBM"
 
-      - title: SOCIAL MEDIA MARKETING CERTIFICATION
+      - title: Social Media Marketing Certification
         link: "https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-certificates/8832a87bf4f54d9d8ccfdb7cdd819dc0-1593560785433.png"
         tagline: "Hubspot Academy"
 
-      - title: SEARCH ENGINE OPTIMIZATION CERTIFICATE
+      - title: Search Engine Marketing Certificate
         link: "https://static.semrush.com/academy-prod/certificate/6411962/SEMrush-Academy-Certificate-2c4ca706839f9cffa1af643742348a40c5bdda06ad5681d7df773911536f3089.png"
         tagline: "SEMrush"
 
-      - title: GOOGLE ANALYTICS
+      - title: Google Analytics
         link: "https://analytics.google.com/analytics/academy/certificate/aw3D9tJcQf2XOHbQ97izRw"
         tagline: "Google Academy"
         
-      - title: BLOCKCHAIN BASICS
+      - title: Blockchain Basic
         link: "https://www.coursera.org/account/accomplishments/certificate/XBJVMH7RGDMS"
         tagline: "Coursera"
 
