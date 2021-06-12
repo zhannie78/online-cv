@@ -66,22 +66,17 @@ experiences:
       time: 2020 - Present
       company: Small Business Owner
       details: |
-        Elevating online brands via digital marketing. Social media is now the premier marketing platform for many businesses. I help e-commerce small businesses and start-ups, including Shopify online brands, with increasing sales through social media exposure and by marketing to their desired demographic via targeted Facebook or Instagram ads. I also utilize influencer marketing strategies and search engine optimization to increase discovery and sales.
+        Social media is now the premier marketing platform for many businesses. I work with e-commerce small business clients, start-ups, and Shopify online brands to increase social media exposure and market to their targeted demographic. Also utilizing influencer marketing strategies and search engine optimization to increase discovery and sales.
     - role: Brand Ambassador and Promotional Model
       time: 2018 - Present
       company: Independent Contractor
       details: |
-        Represented numerous companies in various industries (eg. luxury automotive, beauty, beverages, etc.), to increase brand awareness and preference through promotional events, trade shows, and marketing initiatives. I have worked with over 20 different experiential marketing agencies.
+        Represented numerous companies in various industries (eg. luxury automotive, beauty, beverages, etc.), to increase brand awareness through promotional events, trade shows, and marketing activations. I have worked with 25+ different experiential marketing agencies.
     - role: Biomedical Research Student
       time: 2012 - 2018
       company: University of Alberta
       details: |
-          - AIHS Summer Studentship Grant with Alzheimer's disease research presentation and poster
-          - Published an abstract and gave oral and poster presentations at the regional conference on orthodontic analysis
-          - Research paper on immunoreceptor mediated phagocytosis
-          - Clinical OR research in anaesthesia
-          - Sanofi BioGENEius Merit Award for research project on fatty liver disease.
-          - Selected for The Canadian Gene Cure Foundation GRFAW program
+         AIHS Summer Studentship Grant with Alzheimer's disease research presentation and poster. Published an abstract and gave oral and poster presentations at the regional conference on orthodontic analysis. Research paper on immunoreceptor mediated phagocytosis. Clinical OR research in anaesthesia. Sanofi BioGENEius Merit Award for research project on fatty liver disease. Selected for The Canadian Gene Cure Foundation GRFAW program
     - role: Global Community Development Intern
       time: 2013 - 2013
       company: AIESEC International
@@ -131,7 +126,7 @@ skills:
 
     toolset:
       - name: Python
-        level: 70%
+        level: 65%
 
       - name: R
         level: 80%
@@ -140,16 +135,16 @@ skills:
         level: 50%
 
       - name: HTML
-        level: 80%
+        level: 75%
 
-      - name: Photoshop & Canva
-        level: 85%
+      - name: Graphic Design
+        level: 80%
 
       - name: MS Office & Excel
-        level: 85%
+        level: 80%
 
       - name: Biostatistics & Health Informatics
-        level: 80%
+        level: 70%
         
       - name: AI & Machine Learning
         level: 80%
